@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Tab Layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="english">Hello</string>
+    <string name="turkish">Merhaba</string>
+    <string name="hindi">नमस्ते</string>
+    <string name="armenian">Բարեւ Ձեզ</string>
+    <string name="hebrew">שלום!</string>
+    <string name="georgian">გამარჯობა</string>
+    <string name="norsk">Hallo</string>
+    <string name="thai">สวัสดี</string>
+    <string name="vietnamise">Xin chào</string>
+    <string name="chinese">你好</string>
+</resources>
